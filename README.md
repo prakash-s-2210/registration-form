@@ -18,3 +18,4 @@ This project is intended as a simple example of how to use React, Formik, Yup, R
 ![Login page](https://github.com/prakash-s-2210/registration-form/assets/94909544/99e62494-3307-41ae-b62f-98c9ca6fd200)
 ![home page register](https://github.com/prakash-s-2210/registration-form/assets/94909544/11abf05f-69e3-4e77-8389-a71acf9a5883)
 
+ 
