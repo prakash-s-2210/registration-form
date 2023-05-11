@@ -1,4 +1,4 @@
-#Registration Form 
+# Registration Form 
 
 This is a registration form built using React, with form validation provided by Formik and Yup. User details are stored in Redux, with data persistence enabled by Redux Persist. Upon successful registration, the user's first name, last name, email, and password are saved in the Redux store, and the user is redirected to the login page.
 
