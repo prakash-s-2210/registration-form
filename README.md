@@ -8,4 +8,6 @@ The home page features a grid that displays the user's details, and a logout but
 
 This project is intended as a simple example of how to use React, Formik, Yup, Redux, and Redux Persist to build a registration form with client-side validation and data persistence. Feel free to use this code as a starting point for your own projects.
 
-
+## Screenshots
+![Register](https://github.com/prakash-s-2210/registration-form/assets/94909544/428c2e57-6a2d-43ff-b306-8f27a3d1548b)
+![Login](https://github.com/prakash-s-2210/registration-form/assets/94909544/d5f70433-ad11-44ae-9d20-de4f02812b7d)
